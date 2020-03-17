@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: "/page"
+  publicPath: "/layout9/"
 };
